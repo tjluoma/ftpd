@@ -6,7 +6,7 @@
 #
 #	Purpose: 	enable / disable ftpd on Lion
 #
-#	URL:		http://dl.dropbox.com/u/18414/tuaw/ftpd-lion/ftpd.sh
+#	URL:		https://github.com/tjluoma/ftpd/
 #
 # 	Thanks to:	http://www.landofdaniel.com/blog/2011/07/22/starting-ftp-server-in-os-x-lion/
 #				(although I don't know why he suggests `-s` as a separate line)
